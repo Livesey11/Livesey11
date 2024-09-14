@@ -6,7 +6,7 @@ Welcome to my GitHub profile! I'm a passionate **RPA Developer** with experience
 ## 🚀 About Me
 - 🌱 I’m currently learning: Collaborate React.js with Microsoft Azure
 - 💼 I work at: **ISGS**
-- 👨‍💻 I have experience with: RPA Development, Solution Architecture, E-commerce platforms (e.g., CBJ)
+- 👨‍💻 I have experience with: Software Engineer, RPA Development, Solution Architecture, and Back End Developer
 - 🎯 Goal: Continuously strive for excellence in both development and architecture.
 
 ## 🛠 Skills and Tools
