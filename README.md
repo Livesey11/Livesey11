@@ -1,4 +1,5 @@
 # Hi there! 👋 I'm Christian!
+![Livesey11](https://github.com/user-attachments/assets/cb7ffd38-3dc8-4c44-8e37-9c6469a9fcc4)
 
 Welcome to my GitHub profile! I'm a passionate **RPA Developer** and **Solution Architect** with experience in building and designing scalable solutions. I'm always excited to work on new technologies and projects that push the boundaries of automation and software development.
 
