@@ -20,7 +20,6 @@ Welcome to my GitHub profile! I'm a passionate **RPA Developer** with experience
 ### RPA Platforms
 - UiPath
 - Power Automate
-- Automation Anywhere
 
 ### Cloud and Architecture
 - Google Cloud Platform (GCP)
